@@ -1,0 +1,19 @@
+{
+  "name": "node-run-main",
+  "version": "0.0.1",
+  "description": "",
+  "main": "register.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evdhiggins/node-run-main.git"
+  },
+  "author": "Evan Higgins <evdhiggins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evdhiggins/node-run-main/issues"
+  },
+  "homepage": "https://github.com/evdhiggins/node-run-main#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
